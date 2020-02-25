@@ -1,7 +1,7 @@
 # lasse-spilling-js-frameworks-ma-1
 
-# GETTING STARTED
-#
+#### GETTING STARTED
+
 ###  Installing node modules
 ```
 npm -i
@@ -18,4 +18,8 @@ This outputs to "dist" folder.
 "npm run prod"
 ```
 
-npm scripts can be edited in package.json
+### Dependencies:
+* [jQuery](https://www.npmjs.com/package/jquery) - Javascript framework
+* [jQuery-slideshow](https://www.npmjs.com/package/jquery-slideshow) - Slideshow plugin
+* [Parcel-bundler](https://parceljs.org/) - Bundler
+* [sass](https://www.npmjs.com/package/sass) - Sass compiler
