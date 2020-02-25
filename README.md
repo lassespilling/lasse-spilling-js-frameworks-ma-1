@@ -1,4 +1,4 @@
-# lasse-spilling-js-frameworks-ma-1
+# Parcel jQuery image slider
 
 #### GETTING STARTED
 
