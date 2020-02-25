@@ -13,7 +13,6 @@ npm run dev
 ```
 
 ###  Run npm script to run Parcel build for production
-This outputs to "dist" folder.
 ```
 npm run prod
 ```
