@@ -2,8 +2,20 @@
 
 #### GETTING STARTED ####################
 #
-#  1. Run "npm i"
-#  2. Run "npm run dev" for development
-#  3. Run "npm run prod" for production
-#
-#########################################
+###  1. Installing node modules
+```
+npm -i
+```
+
+###  2. Use npm script to run Parcel watch
+```
+"npm run dev"
+```
+
+###  2. Run npm script for Parcel build for production
+This outputs to "dist" folder.
+```
+"npm run prod"
+```
+
+npm scripts can be edited in package.json
