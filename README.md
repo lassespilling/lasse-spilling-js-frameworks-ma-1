@@ -9,13 +9,13 @@ npm -i
 
 ###  Use npm script to run Parcel watch
 ```
-"npm run dev"
+npm run dev
 ```
 
 ###  Run npm script for Parcel build for production
 This outputs to "dist" folder.
 ```
-"npm run prod"
+npm run prod
 ```
 
 ### Dependencies:
