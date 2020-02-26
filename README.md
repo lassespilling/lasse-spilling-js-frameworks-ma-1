@@ -3,7 +3,7 @@
 #### GETTING STARTED
 
 ### Demo:
-* [view Demo](https://lasse.media/experiments/jquery-slider-parcel-demo/)
+[-- View Demo --](https://lasse.media/experiments/jquery-slider-parcel-demo/)
 
 ###  Installing node modules
 ```
