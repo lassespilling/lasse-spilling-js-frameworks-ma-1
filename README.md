@@ -2,6 +2,9 @@
 
 #### GETTING STARTED
 
+### Demo:
+* [view Demo](https://lasse.media/experiments/jquery-slider-parcel-demo/)
+
 ###  Installing node modules
 ```
 npm -i
@@ -22,3 +25,4 @@ npm run prod
 * [jQuery-slideshow](https://www.npmjs.com/package/jquery-slideshow) - Slideshow plugin
 * [Parcel-bundler](https://parceljs.org/) - Bundler
 * [sass](https://www.npmjs.com/package/sass) - Sass compiler
+
